@@ -8,3 +8,4 @@ Buggy feature
 first bug
 second bug
 third bug
+final bug
